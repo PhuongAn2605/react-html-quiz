@@ -1,0 +1,18 @@
+/* #confirm{
+   overflow: hidden !important;
+   height: 100%;
+   top: `{window.pageYOffset + 'px'}`;
+} */
+
+.ant-modal-header{
+    text-align: center;
+}
+.ant-modal-body{
+    text-align: center;
+    color: rgb(139, 155, 150);
+}
+.ant-modal-footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

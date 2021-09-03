@@ -1,0 +1,10 @@
+{
+    "global":{
+        "header":[
+            "Web Programming",
+            "WPR"
+        ],
+        "quizName":["Bài kiểm tra HTML", "HTML QUiz"]
+
+    }
+}
